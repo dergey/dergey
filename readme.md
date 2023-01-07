@@ -13,7 +13,7 @@ Now I'm considering to discover something new for me.
 
 
 ### Frameworks, platforms and libraries that I use in development:
-#### Java (for backend)
+#### Java & Kotlin (for backend)
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
@@ -23,7 +23,7 @@ Now I'm considering to discover something new for me.
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-#### Java (for Android)
+#### Java & Kotlin (for Android)
 
 ROOM, Retrofit and other.
 
