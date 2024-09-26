@@ -1,7 +1,7 @@
 ### About me
 
-Hi there, my name is Sergey. I'm a Java developer for about 5 years, I have great experience in development of fintech and commercially oriented applications. In addition I own Android and JS + React development.
-Now I'm considering to discover something new for me.
+Hi there, my name is Sergey. I'm a Java developer for about 7 years, I have great experience in development of fintech and commercially oriented applications. In addition I own Android and JS + React development.
+Now I'm considering to discover something new opportunities for me.
 
 
 ### Programming languages I know:
